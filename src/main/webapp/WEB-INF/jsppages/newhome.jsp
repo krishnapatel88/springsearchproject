@@ -160,6 +160,7 @@ button span:after {
 </head>
 <body>
 <div id="cover">
+  <h1>Search</h1>
   <form method="get" action="search" target="_blank">
     <div class="tb">
       <div class="td"><input type="text" placeholder="Search" name="query" required></div>
